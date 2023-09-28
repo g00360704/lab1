@@ -6,6 +6,8 @@ let addTask = (task) => {
     return tasksArray.length;
 }
 
+//string of arrays that adds lists and deketes a task function//
+
 let listAllTasks = () => {
     console.log("All tasks:");
     for (let i = 0; i < tasksArray.length; i++) {
