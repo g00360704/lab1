@@ -4,7 +4,7 @@ function Sayhello(){
 }
 
 Sayhello();
-
+//this is an arrow function//
 const bye = ()=>{console.log("bye" );}
 
 bye();
